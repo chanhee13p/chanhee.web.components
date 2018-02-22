@@ -1,0 +1,33 @@
+{
+  "name": "chanhee.web.components",
+  "version": "0.0.0",
+  "description": "web componets library",
+  "scripts": {
+    "start": "node ./bin/www",
+    "test" : "npm run-script test"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.0",
+    "node-sass-middleware": "0.9.8",
+    "serve-favicon": "~2.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanhee13p/chanhee.web.components.git"
+  },
+  "keywords": [
+    "web",
+    "components"
+  ],
+  "author": "chanhee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chanhee13p/chanhee.web.components/issues"
+  },
+  "homepage": "https://github.com/chanhee13p/chanhee.web.components#readme"
+}
